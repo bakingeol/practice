@@ -1,0 +1,429 @@
+.group2628
+{
+position: absolute;
+width: 1129px;
+height: 603.31px;
+left: 55px;
+top: 114px;
+}
+
+.shapewithtext /* 큰 회색 */
+{
+background-color:#b3b3b3;
+position:absolute;
+
+border-radius: 60px;
+width: 1129px;
+height: 603.31px;
+left: 55px;
+top: 114px;
+}
+.shapewithtext2 /* 1~8까지는 폴더 모양  */
+{
+background-color:#e6e6e6;
+position:absolute;
+border-radius: 20px;
+width: 179.23px;
+height: 500.62px;
+left: 83px;
+top: 184.41px;
+
+}
+.shapewithtext3
+{
+width: 133px;
+height: 135px;
+background: url("icon.png");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+opacity: 1;
+position: absolute;
+top: 209px;
+left: 298px;
+overflow: hidden;
+}
+.shapewithtext4
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 465px;
+    overflow: hidden;
+}
+.shapewithtext5
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 632px; /*167*/
+    overflow: hidden;
+}
+.shapewithtext6
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 799px;
+    overflow: hidden;
+}
+.shapewithtext7
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 376px;
+    left: 298px;
+    overflow: hidden;
+}
+
+.shapewithtext100
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 376px;
+    left: 465px;
+    overflow: hidden;
+}
+.shapewithtext101
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 376px;
+    left: 632px;
+    overflow: hidden;
+}
+.shapewithtext102
+{
+    width: 133px;
+    height: 135px;
+    background: url("icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 376px;
+    left: 799px;
+    overflow: hidden;
+}
+.fullscreen
+{
+position:absolute;
+width: 34.67px;
+height: 34.67px;
+left: 171.02px;
+top: 131.34px;
+}
+.vector
+{
+height:34.67280960083008px;
+width:34.67280960083008px;
+width:34.67280960083008px;
+height:34.67280960083008px;
+}
+.vector2
+{
+background-color:#000000;
+height:20.22580337524414px;
+width:20.22580337524414px;
+width:20.22580337524414px;
+height:20.22580337524414px;
+left:0px;
+top:10357.887570858002px;
+position:absolute;
+}
+.fullscreenexit
+{
+width: 33.07px;
+height: 33.07px;
+left: 129.41px;
+top: 132.14px;
+
+position:absolute;
+}
+.vector3
+{
+height:33.07252502441406px;
+width:33.07252502441406px;
+width:33.07252502441406px;
+height:33.07252502441406px;
+}
+.vector4
+{
+background-color:#000000;
+height:19.29230499267578px;
+width:19.29230499267578px;
+width:19.29230499267578px;
+height:19.29230499267578px;
+left:0px;
+top:10356.753438472748px;
+position:absolute;
+}
+.systemupdatealt
+{
+width: 25.6px;
+height: 25.6px;
+left: 1047.44px;
+top: 135.87px;
+position:relative;
+}
+.vector5
+{
+height:25.604537963867188px;
+width:25.604537963867188px;
+width:25.604537963867188px;
+height:25.604537963867188px;
+}
+.vector6
+{
+background-color:#000000;
+height:19.203401565551758px;
+width:23.470821380615234px;
+width:23.470821380615234px;
+height:19.203401565551758px;
+left:0px;
+top:10349.330508947372px;
+position:absolute;
+}
+.delete
+{
+position: absolute;
+width: 25.6px;
+height: 25.6px;
+left: 1085.05px;
+top: 135.87px;
+}
+.vector7
+{
+height:25.604537963867188px;
+width:25.604537963867188px;
+width:25.604537963867188px;
+height:25.604537963867188px;
+left:0px;
+top:10346.129883360418px;
+position:absolute;
+}
+.vector8
+{
+background-color:#000000;
+height:19.203401565551758px;
+width:14.935980796813965px;
+width:14.935980796813965px;
+height:19.203401565551758px;
+left:0px;
+top:10349.330508947372px;
+position:absolute;
+}
+.findinpage
+{
+
+width: 25.6px;
+height: 25.6px;
+left: 1122.66px;
+top: 135.87px;
+
+position:absolute;
+}
+.vector9
+{
+height:25.604537963867188px;
+width:25.604537963867188px;
+width:25.604537963867188px;
+height:25.604537963867188px;
+left:0px;
+top:10346.129943232096px;
+position:absolute;
+}
+.vector10
+{
+background-color:#000000;
+height:21.337112426757812px;
+width:17.069690704345703px;
+width:17.069690704345703px;
+height:21.337112426757812px;
+left:0px;
+top:10348.263680696487px;
+position:absolute;
+}
+.clear
+{
+width: 29.34px;
+height: 29.34px;
+left: 91.54px;
+top: 134px;
+position:absolute;
+}
+.vector11
+{
+height:29.338529586791992px;
+width:29.338529586791992px;
+width:29.338529586791992px;
+height:29.338529586791992px;
+}
+.vector12
+{
+background-color:#000000;
+height:17.1141414642334px;
+width:17.1141414642334px;
+width:17.1141414642334px;
+height:17.1141414642334px;
+left:0px;
+top:10354.10835981369px;
+position:absolute;
+}
+.shapewithtext9 /* 상단 검색창*/
+{
+background-color:#e6e6e6;
+height:33.87267303466797px;
+width:723.8615112304688px;
+position:absolute;
+left: 297.98px;
+top: 131.34px;
+border-radius: 10px;
+}
+.group2621
+{
+position: absolute;
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 216.42px;    
+border-radius: 7.68px;
+}
+.name
+{
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 216.42px;    
+font-size:14px;    
+text-align:center;
+background-color:#ffffff;
+color:#000000;
+border-radius: 7.68px;
+}
+
+.group2622
+{
+
+position:absolute; 
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 244.96px;
+border-radius: 7.68px;
+}
+.group2623
+{
+position:absolute;
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 273.49px;
+border-radius: 7.68px;
+}
+
+.group2624
+{
+
+position:absolute;
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 302.03px;
+border-radius: 7.68px;
+}
+.group2625
+{
+position:absolute;
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 330.57px;
+border-radius: 7.68px;
+}
+
+.group2626
+{
+position:absolute;
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 359.11px;
+border-radius: 7.68px;
+}
+
+.group2627
+{
+position:absolute;
+width: 129.36px;
+height: 19.32px;
+left: 107.81px;
+top: 387.65px;
+border-radius: 7.68px;
+}
+
+.txt1
+{
+    width: 133px;
+    height: 135px;
+    background: url("txt_rm.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 298px;
+    overflow: hidden;    
+}
+.txt2
+{
+    width: 133px;
+    height: 135px;
+    background: url("txt_rm.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 465px;
+    overflow: hidden;    
+}
